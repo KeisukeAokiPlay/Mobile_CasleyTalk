@@ -1,4 +1,4 @@
-package CasleyTalk;
+package main.java;
 
 import java.io.IOException;
 import java.util.List;
@@ -29,6 +29,6 @@ public class ReadServlet extends HttpServlet {
 
 		request.setAttribute("topics", topics);
 
-		request.getRequestDispatcher("/read.jsp").forward(request, response);
+		request.getRequestDispatcher("/WEB-INF/jsp/read.jsp").forward(request, response);
 	}
 }
