@@ -1,4 +1,4 @@
-package CasleyTalk;
+package main.java;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -17,7 +17,7 @@ public class ConnectionManager {
 	final static String URL = "jdbc:mysql://localhost/blog";
 
 	final static String USER = "root";
-	final static String PASS = "root";
+	final static String PASS = "";
 
 	/*
 	 * Connectionを取得する

@@ -1,5 +1,8 @@
-<%@page contentType="text/html; charset=UTF-8"%>
-<%@page import="CasleyTalk.Topic,java.util.List"%>
+<%@page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@page import="main.java.Topic,java.util.List"%>
+
+<!--CasleyTalk
+-->
 
 <html>
 <body>
