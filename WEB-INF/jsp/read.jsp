@@ -1,4 +1,4 @@
-<%@page contentType="text/html; charset=UTF-8"%>
+<%@page contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <%@page import="main.java.Topic,java.util.List"%>
 
 <!--CasleyTalk
